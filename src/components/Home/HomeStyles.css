@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  margin: 1.5rem auto 0;
+  max-width: 75rem;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+  border: none;
+}
